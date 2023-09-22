@@ -8,6 +8,8 @@ In this project, our group recorded some pre-defined sentences in audio files us
 The notebook file explains the project step by step.
 
 Final Results (Accuracy was ~82%):
+
+
 <img width="701" alt="Screenshot 2023-09-22 at 6 53 44 PM" src="https://github.com/farazjawedd/Language_classficiation_MFCC/assets/101464414/33977059-d2db-4cd8-8486-ed817feed8fd">
 
 
