@@ -1,5 +1,5 @@
 # Language_classficiation_MFCC
-### Machine Learning (CS 535) - Fall 2021 - Lahore University of Management Sciences. Senior Year project.
+### Machine Learning (CS 535) - 2021 - In Collaboration with Lahore University of Management Sciences
 
 # Classifying audio files into their approriate language using MFCC
 
